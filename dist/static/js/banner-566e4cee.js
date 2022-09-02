@@ -1,0 +1,1 @@
+import{_ as e}from"./index-33ca6c86.js";import{o as r,c as n}from"./@vue-31ce2c27.js";import"./vue-router-125f2f9a.js";const o={};function c(t,a){return r(),n("div",null," banner\u9875\u9762 ")}const m=e(o,[["render",c]]);export{m as default};
